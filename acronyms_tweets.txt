@@ -1,4 +1,80 @@
 aronyms	meaning
+ifyp	i feel your pain
+ie	that is
+icq	i seek you
+e123	easy as one two three
+eet	eastern european time
+c/o	care of
+cul8r	see you later
+4ao	for adults only
+a.m	before midday
+a3	anytime anywhere anyplace
+aamof	as a matter of fact
+acct	account
+adih	another day in hell
+afaic	as far as i am concerned
+afaict	as far as i can tell
+afaik	as far as i know
+afair	as far as i remember
+app	application
+apps	applications
+asap	as soon as possible
+asl	age sex location
+atk	at the keyboard
+aymm	are you my mother
+ayor	at your own risk
+b2b	business to business
+b2c	business to customer
+b4	before
+b4n	bye for now
+bak	back at keyboard
+bbc	british broadcasting corporation
+bbias	be back in a second
+bbl	be back later
+bbs	be back soon
+be4	before
+bout	about
+brb	be right back
+brt	be right there
+blvd	boulevard
+bros	brothers
+bwl	bursting with laughter
+approx	approximately
+cu	see you
+cwot	complete waste of time
+cyt	see you tomorrow
+dae	does anyone else
+dbmib	do not bother me i am busy
+idgaf	i do not give a fuck
+idgadf	i do not give a damn fuck
+idc	i do not care
+ftw	for the win
+ftl	for the loss
+ft	featuring
+fig	figure
+fimh	forever in my heart
+fc	fingers crossed
+eg	example
+etv	and so on
+faq	frequently asked questions
+fawc	for anyone who cares
+ibrb	i will be right back
+ht	height
+hrh	his royal highness
+hr	hour
+hp	horsepower
+gyal	girl
+gratz	congratulations
+gr8	great
+gps	global positioning system
+goi	get over it
+gl	good luck
+gal	get a life
+
+gfn	gone for now
+gcse	general certificate of secondary education
+gahoy	get a hold of yourself
+
 w/e	whatever
 w/	with
 n	and
@@ -55,6 +131,7 @@ plz	please
 icymi	in case you missed it
 iirc	if i remember correctly
 iow	in other words
+col	cool
 ic	i see
 ur	you are
 lgtm	look good to me
@@ -80,7 +157,6 @@ dr	doctor
 dr.	doctor
 prof	professor
 intl	international
-la	los angeles
 ig	instagram
 wmv	windows media video
 dvd	digital video disk
@@ -117,5 +193,86 @@ sos	save our souls
 U.S.	united state
 ok	okay
 oke	okay
-sry sorry
-tks thanks
+sry	sorry
+tks	thanks
+wtg	way to go
+wtpa	where the party at
+w8	wait
+wb	welcome back
+wuf	where are you from
+wuzup	what is up
+wywh	wish you were here
+yd	yard
+ygtr	you got that right
+ynk	you never know
+zzz	sleeping bored and tired
+u2	you too
+u4e	yours for ever
+utc	coordinated universal time
+thx	thank you
+tia	thanks in advance
+til	today i learned
+tldr	too long i did not read
+tmb	tweet me back
+tntl	try not to laugh
+ttyl	talk to you later
+srsly	seriously
+sq	square
+smh	shake my head
+sfw	safe for work
+rouk	are you okay
+rotflmao	rolling on the floor laughing my ass off
+roflol	rolling on the floor laughing out loud
+rofl	rolling on the floor laughing
+rbtl	read between the lines
+ratchet	rude
+qpsa	what happens
+pto	please turn over
+ptb	please text back
+pt	point
+ppl	people
+pp	pages
+pov	point of view
+poc	people of color
+pm	prime minister
+p.m	after midday
+a.m	per annum
+omw	on my way
+oic	oh i see
+ohp	overhead projector
+og	original
+oc	original content
+nvr	never
+nth	nice to have
+nrn	no reply necessary
+ngl	not going to lie
+nfs	not for sale
+nbd	not big deal
+nbc	national broadcasting company
+mte	my throughts exactly
+ms	miss
+mrw	my reaction when
+mr	mister
+mph	miles per hour
+mofo	motherfucker
+mfs	motherfuckers
+mf	motherfucker
+mfw	mu face when
+m8	mate
+ltns	long time no see
+ltd	limited
+lmfao	laugh my fucking ass off
+ldr	long distance relationship
+lbs	pounds
+lb	pound
+l8r	later
+jsyk	just so you know
+jk	just kidding
+jic	just in case
+j4f	just for fun
+iow	in other words
+imu	i miss you
+imo	in my opinion
+ily	i love you
+ilu	i love you
+iirc	if i remember correctly
