@@ -117,3 +117,5 @@ sos	save our souls
 U.S.	united state
 ok	okay
 oke	okay
+sry sorry
+tks thanks
