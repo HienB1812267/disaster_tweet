@@ -1,0 +1,5 @@
+DATA_TRAIN_PATH = "./train.csv"
+DATA_TEST_PATH = "./test.csv"
+SAMPE_SUBMISSTION_PATH ="./sample_submission.csv"
+ACRONYMS_PATH = "./acronyms_tweets.txt"
+TRUE_TARGET_PATH = "./real_target.csv"

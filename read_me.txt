@@ -1,0 +1,2 @@
+File notebook này tải trực tiếp từ kaggle về, em chỉ thêm các lệnh cài đặt các thư viện mà kaggle còn thiếu
+nên có thể chạy về máy có thể bị thiếu thư viện. Notebook này được chạy trên môi trường GPU của kaggle
